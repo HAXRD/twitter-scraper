@@ -5,8 +5,13 @@ This python program is aimed to scrape the tweets that contains pictures. It wil
 # Prerequisite
 
 ```
-$ pip install shutil tweepy pandas xlwt wget
+$ pip install shutil tweepy pandas xlwt wget xlwtwriter
 ```
+or
+```
+$ pip install tweepy pandas xlwt wget xlwtwriter
+```
+
 
 # Add you credential keys
 Go to https://apps.twitter.com/ to create your own api credentials and modify the *credential.py*
