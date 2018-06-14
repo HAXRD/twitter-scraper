@@ -15,3 +15,7 @@ $ pip install tweepy pandas xlwt wget xlwtwriter
 
 # Add you credential keys
 Go to https://apps.twitter.com/ to create your own api credentials and modify the *credential.py*
+
+
+# Credit
+Image resources: Twitter: @FacesPics
